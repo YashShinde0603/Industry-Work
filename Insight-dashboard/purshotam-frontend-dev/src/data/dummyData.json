@@ -1,0 +1,1626 @@
+{
+  "incomingMis": [
+    {
+      "date": "02-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "kantaWeight": 30545,
+      "erpWeight": 30525,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "02-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "kantaWeight": 24100,
+      "erpWeight": 24070,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "02-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "kantaWeight": 17505,
+      "erpWeight": 17450,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "04-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 23285,
+      "erpWeight": 23210,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "04-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 32360,
+      "erpWeight": 32300,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "04-Jul-24",
+      "from": "SHIVA_STEEL PROCESSORS",
+      "noOfVehicles": 1,
+      "kantaWeight": 23905,
+      "erpWeight": 23860,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "05-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 30330,
+      "erpWeight": 30250,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "05-Jul-24",
+      "from": "SHIVA_STEEL PROCESSORS",
+      "noOfVehicles": 1,
+      "kantaWeight": 23940,
+      "erpWeight": 23840,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "05-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 24060,
+      "erpWeight": 24060,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "05-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 31225,
+      "erpWeight": 31200,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "05-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 32040,
+      "erpWeight": 31880,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "05-Jul-24",
+      "from": "SHIVA_STEEL PROCESSORS",
+      "noOfVehicles": 1,
+      "kantaWeight": 24090,
+      "erpWeight": 24015,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "05-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "kantaWeight": 20305,
+      "erpWeight": 8980,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "05-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "erpWeight": 11320,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "05-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 21605,
+      "erpWeight": 21610,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "07-Jul-24",
+      "from": "M/S_R_S_ENTERPRISES",
+      "noOfVehicles": 1,
+      "kantaWeight": 785,
+      "erpWeight": "NA",
+      "materialType": "WOODS"
+    },
+    {
+      "date": "07-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 35060,
+      "erpWeight": 34970,
+      "materialType": "GALVALUME"
+    },
+    {
+      "date": "07-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 23170,
+      "erpWeight": 23010,
+      "materialType": "GALVALUME"
+    },
+    {
+      "date": "07-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 20385,
+      "erpWeight": 20350,
+      "materialType": "GALVALUME"
+    },
+    {
+      "date": "07-Jul-24",
+      "from": "SHIVA_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 23980,
+      "erpWeight": 23935,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "07-Jul-24",
+      "from": "SHIVA_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 32680,
+      "erpWeight": 32630,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "07-Jul-24",
+      "from": "SHIVA_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 19845,
+      "erpWeight": 19885,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "09-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 27275,
+      "erpWeight": 27290,
+      "materialType": "GP_COIL"
+    },
+    {
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 27250,
+      "erpWeight": 27200,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "10-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 37440,
+      "erpWeight": 37440,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "10-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 21620,
+      "erpWeight": 21590,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "10-Jul-24",
+      "from": "JADE SOLUTIONS",
+      "noOfVehicles": 1,
+      "kantaWeight": 1615,
+      "erpWeight": "NA",
+      "materialType": "PACKING STRAP"
+    },
+    {
+      "date": "11-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 21430,
+      "erpWeight": 21410,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "11-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 32260,
+      "erpWeight": 32230,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "11-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 37770,
+      "erpWeight": 37670,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "12-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 31530,
+      "erpWeight": 31470,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "12-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 20790,
+      "erpWeight": 20720,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "12-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 36230,
+      "erpWeight": 36210,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "12-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 24750,
+      "erpWeight": 16290,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "12-Jul-24",
+      "from": "SHIVA_STEEL PROCESSORS",
+      "noOfVehicles": 1,
+      "erpWeight": 8420,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "12-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 19030,
+      "erpWeight": 18980,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "13-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 27575,
+      "erpWeight": 27530,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "13-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 20435,
+      "erpWeight": 10820,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "13-Jul-24",
+      "from": "MMCL STEELS PVT LTD",
+      "noOfVehicles": 1,
+      "erpWeight": 9660,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "13-Jul-24",
+      "from": "M/S_SHRI_GANGA_ENTERPRISES",
+      "noOfVehicles": 1,
+      "kantaWeight": 1160,
+      "erpWeight": "NA",
+      "materialType": "WOODS"
+    },
+    {
+      "date": "13-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 22185,
+      "erpWeight": 22140,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "14-Jul-24",
+      "from": "MMCL STEELS PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 24030,
+      "erpWeight": 23990,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "15-Jul-24",
+      "from": "MMCL STEELS PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 23995,
+      "erpWeight": 23980,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "16-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "kantaWeight": 34635,
+      "erpWeight": 34630,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "16-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "kantaWeight": 13270,
+      "erpWeight": 13285,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "16-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 21035,
+      "erpWeight": 20970,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "16-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 37865,
+      "erpWeight": 37810,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "17-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 27435,
+      "erpWeight": 27360,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "17-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 21890,
+      "erpWeight": 21890,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "17-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 32620,
+      "erpWeight": 32590,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "18-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 24405,
+      "erpWeight": 24410,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "18-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 38375,
+      "erpWeight": 38360,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "18-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "kantaWeight": 20775,
+      "erpWeight": 20740,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "18-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "kantaWeight": 20830,
+      "erpWeight": 20755,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "18-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "kantaWeight": 20825,
+      "erpWeight": 20800,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "19-Jul-24",
+      "from": "MASTER_AUTOMOTIVE_COMPONENTS_PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 22900,
+      "erpWeight": 22865,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "19-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "kantaWeight": 17370,
+      "erpWeight": 17385,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "19-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "kantaWeight": 18075,
+      "erpWeight": 18040,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "19-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 27320,
+      "erpWeight": 27250,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "19-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 38025,
+      "erpWeight": 38010,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "20-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 24655,
+      "erpWeight": 24630,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "20-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 21450,
+      "erpWeight": 21430,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "20-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 27220,
+      "erpWeight": 27180,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "21-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 24450,
+      "erpWeight": 24460,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "21-Jul-24",
+      "from": "NRJ_STEEL PROCESSORS PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 21860,
+      "erpWeight": 21820,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "21-Jul-24",
+      "from": "SHIVA_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 24795,
+      "erpWeight": 3170,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "21-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "erpWeight": 21635,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "22-Jul-24",
+      "from": "M/S_SHRI_GANGA_ENTERPRISES",
+      "noOfVehicles": 1,
+      "kantaWeight": 890,
+      "erpWeight": "NA",
+      "materialType": "WOODS"
+    },
+    {
+      "date": "23-Jul-24",
+      "from": "MASTER_AUTOMOTIVE_COMPONENTS_PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 32215,
+      "erpWeight": 32140,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "24-Jul-24",
+      "from": "MASTER_AUTOMOTIVE_COMPONENTS_PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 18560,
+      "erpWeight": 18620,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "24-Jul-24",
+      "from": "MASTER_AUTOMOTIVE_COMPONENTS_PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 22650,
+      "erpWeight": 22645,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "24-Jul-24",
+      "from": "MASTER_AUTOMOTIVE_COMPONENTS_PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 26825,
+      "erpWeight": 26700,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "24-Jul-24",
+      "from": "SHIVA_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 34470,
+      "erpWeight": 34345,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "25-Jul-24",
+      "from": "MASTER_AUTOMOTIVE_COMPONENTS_PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 20295,
+      "erpWeight": 20300,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "25-Jul-24",
+      "from": "SHIVA_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 23320,
+      "erpWeight": 23335,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "25-Jul-24",
+      "from": "MASTER_AUTOMOTIVE_COMPONENTS_PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 23665,
+      "erpWeight": 23630,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "25-Jul-24",
+      "from": "MASTER_AUTOMOTIVE_COMPONENTS_PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 20160,
+      "erpWeight": 20175,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "25-Jul-24",
+      "from": "MASTER_AUTOMOTIVE_COMPONENTS_PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 30860,
+      "erpWeight": 30760,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "25-Jul-24",
+      "from": "MASTER_AUTOMOTIVE_COMPONENTS_PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 23640,
+      "erpWeight": 20385,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "25-Jul-24",
+      "from": "VANSH_ISPAT",
+      "noOfVehicles": 1,
+      "erpWeight": 3195,
+      "materialType": "HR_COIL"
+    },
+    {
+      "date": "25-Jul-24",
+      "from": "M/S_SHRI_GANGA_ENTERPRISES",
+      "noOfVehicles": 1,
+      "kantaWeight": 1875,
+      "erpWeight": "NA",
+      "materialType": "WOODS"
+    },
+    {
+      "date": "25-Jul-24",
+      "from": "MASTER_AUTOMOTIVE_COMPONENTS_PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 35555,
+      "erpWeight": 35510,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "25-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 37400,
+      "erpWeight": 37260,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "26-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 21125,
+      "erpWeight": 21060,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "26-Jul-24",
+      "from": "SHIVA_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 26445,
+      "erpWeight": 26440,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "26-Jul-24",
+      "from": "SHIVA_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 22245,
+      "erpWeight": 22285,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "26-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 26860,
+      "erpWeight": 26760,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "26-Jul-24",
+      "from": "SHIVA_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 20930,
+      "erpWeight": 20930,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "26-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 25670,
+      "erpWeight": 25560,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "26-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 21360,
+      "erpWeight": 21340,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "27-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 32845,
+      "erpWeight": 32740,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "27-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 32010,
+      "erpWeight": 31920,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "27-Jul-24",
+      "from": "SHIVA_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 22705,
+      "erpWeight": 22665,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "27-Jul-24",
+      "from": "NRJ_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 22820,
+      "erpWeight": 22800,
+      "materialType": "GP_COIL"
+    },
+    {
+      "date": "27-Jul-24",
+      "from": "SHIVA_STEEL",
+      "noOfVehicles": 1,
+      "kantaWeight": 21235,
+      "erpWeight": 21165,
+      "materialType": "GP_COIL"
+    }
+  ],
+  "dispatchMis": [
+    {
+      "date": "01-Jul-24",
+      "to": "Purshotam Profiles Pvt Ltd (PLANT-2)",
+      "noOfVehicles": 1,
+      "kantaWeight": 12070,
+      "erpWeight": 12070,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN EXT."
+    },
+    {
+      "date": "01-Jul-24",
+      "to": "AMAN METAL ALLOYS",
+      "noOfVehicles": 1,
+      "kantaWeight": 13165,
+      "erpWeight": 13165,
+      "profile": "SCRAP",
+      "partName": "MS SCRAP/PATTI/PUNCHING CHIP"
+    },
+    {
+      "date": "01-Jul-24",
+      "to": "AMPIN ENERGY TRANSITION PRIVATE LIMITED",
+      "noOfVehicles": 1,
+      "kantaWeight": 2300,
+      "erpWeight": 2300,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN EXT INER/COLUMN EXT. OUTER"
+    },
+    {
+      "date": "02-Jul-24",
+      "to": "Purshotam Profiles Pvt Ltd (PLANT-2)",
+      "noOfVehicles": 1,
+      "kantaWeight": 25495,
+      "erpWeight": 25495,
+      "profile": "STRUCTURE",
+      "partName": "EXTENTION POST"
+    },
+    {
+      "date": "03-Jul-24",
+      "to": "CLEAN MAX ENVIRO ENERGY SOLUTION PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 25450,
+      "erpWeight": 25780,
+      "profile": "STRUCTURE",
+      "partName": "RAFTER"
+    },
+    {
+      "date": "04-Jul-24",
+      "to": "FABMONT ENGINEERING LLP",
+      "noOfVehicles": 1,
+      "kantaWeight": 40265,
+      "erpWeight": 40140,
+      "profile": "STRUCTURE",
+      "partName": "VERTICAL POST"
+    },
+    {
+      "date": "05-Jul-24",
+      "to": "FABMONT ENGINEERING LLP",
+      "noOfVehicles": 1,
+      "kantaWeight": 33170,
+      "erpWeight": 32791,
+      "profile": "STRUCTURE",
+      "partName": "VERTICAL POST"
+    },
+    {
+      "date": "05-Jul-24",
+      "to": "Purshotam Profiles Pvt Ltd (AHMEDABAD)",
+      "noOfVehicles": 1,
+      "kantaWeight": 22535,
+      "erpWeight": 22619,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN COUPLER"
+    },
+    {
+      "date": "05-Jul-24",
+      "to": "AMAN METAL ALLOYS",
+      "noOfVehicles": 1,
+      "kantaWeight": 12585,
+      "erpWeight": 12585,
+      "profile": "SCRAP",
+      "partName": "WELDJOINT"
+    },
+    {
+      "date": "06-Jul-24",
+      "to": "SALASAR TECHNO ENGINEERING LTD (UP)",
+      "noOfVehicles": 1,
+      "kantaWeight": 5620,
+      "erpWeight": 5598,
+      "profile": "HR_COIL",
+      "partName": "HR_COIL"
+    },
+    {
+      "date": "09-Jul-24",
+      "to": "HINDUJA RENEWABLES ENERGY PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 24740,
+      "erpWeight": 24409,
+      "profile": "STRUCTURE",
+      "partName": "EXTENSION POST"
+    },
+    {
+      "date": "09-Jul-24",
+      "to": "Purshotam Profiles Pvt Ltd (AHMEDABAD)",
+      "noOfVehicles": 1,
+      "kantaWeight": 7050,
+      "erpWeight": 7009,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN COUPLER"
+    },
+    {
+      "date": "09-Jul-24",
+      "to": "AMAN METAL ALLOYS",
+      "noOfVehicles": 1,
+      "kantaWeight": 11365,
+      "erpWeight": 11365,
+      "profile": "SCRAP",
+      "partName": "WELDJOINT"
+    },
+    {
+      "date": "10-Jul-24",
+      "to": "DSP INDUSTRIES",
+      "noOfVehicles": 1,
+      "kantaWeight": 24980,
+      "erpWeight": 24780,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN EXTENSION"
+    },
+    {
+      "date": "10-Jul-24",
+      "to": "AMAN METAL ALLOYS",
+      "noOfVehicles": 1,
+      "kantaWeight": 2725,
+      "erpWeight": 2725,
+      "profile": "SCRAP",
+      "partName": "SHEET SCRAP/PATTI SCRAP"
+    },
+    {
+      "date": "10-Jul-24",
+      "to": "ACME SOLAR HOLDING PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 39995,
+      "erpWeight": 39839,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN C"
+    },
+    {
+      "date": "11-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT. LTD (RAJ)",
+      "noOfVehicles": 1,
+      "kantaWeight": 39960,
+      "erpWeight": 39814,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN A & PURLIN C"
+    },
+    {
+      "date": "12-Jul-24",
+      "to": "MOGLI LABS (INDIA) PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 30450,
+      "erpWeight": 30135,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN LOWER",
+      "column10": 29460
+    },
+    {
+      "date": "12-Jul-24",
+      "to": "MOGLI LABS (INDIA) PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 29460,
+      "erpWeight": 29467,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN LOWER"
+    },
+    {
+      "date": "13-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD (RAJ)",
+      "noOfVehicles": 1,
+      "kantaWeight": 40280,
+      "erpWeight": 40039,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN C"
+    },
+    {
+      "date": "14-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 39980,
+      "erpWeight": 39980,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN A & PURLIN C"
+    },
+    {
+      "date": "15-Jul-24",
+      "to": "DSP INDUSTRIES",
+      "noOfVehicles": 1,
+      "kantaWeight": 25090,
+      "erpWeight": 24905,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN EXTENSION"
+    },
+    {
+      "date": "15-Jul-24",
+      "to": "ACME SOLAR HOLDING PVT.LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 39890,
+      "erpWeight": 39688,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-A"
+    },
+    {
+      "date": "16-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD (RAJ)",
+      "noOfVehicles": 1,
+      "kantaWeight": 39950,
+      "erpWeight": 39821,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-A"
+    },
+    {
+      "date": "17-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD (RAJ)",
+      "noOfVehicles": 1,
+      "kantaWeight": 40025,
+      "erpWeight": 40025,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-A/PURLINC"
+    },
+    {
+      "date": "17-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD (RAJ)",
+      "noOfVehicles": 1,
+      "kantaWeight": 39915,
+      "erpWeight": 39915,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-A/PURLINC"
+    },
+    {
+      "date": "18-Jul-24",
+      "to": "DSP INDUSTRIES",
+      "noOfVehicles": 1,
+      "kantaWeight": 25240,
+      "erpWeight": 24907,
+      "profile": "STRUCTURE",
+      "partName": "INTERNAL COLUMN EXTENSION"
+    },
+    {
+      "date": "19-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD (RAJ)",
+      "noOfVehicles": 1,
+      "kantaWeight": 40045,
+      "erpWeight": 39755,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-A"
+    },
+    {
+      "date": "19-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD (RAJ)",
+      "noOfVehicles": 1,
+      "kantaWeight": 39960,
+      "erpWeight": 39787,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-A & PURLIN-C"
+    },
+    {
+      "date": "20-Jul-24",
+      "to": "DSP INDUSTRIES",
+      "noOfVehicles": 1,
+      "kantaWeight": 24990,
+      "erpWeight": 24614,
+      "profile": "STRUCTURE",
+      "partName": "INTERNAL COLUMN EXTENSION"
+    },
+    {
+      "date": "20-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD (RAJ)",
+      "noOfVehicles": 1,
+      "kantaWeight": 40015,
+      "erpWeight": 39833,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-A & PURLIN-C"
+    },
+    {
+      "date": "21-Jul-24",
+      "to": "DSP INDUSTRIES",
+      "noOfVehicles": 1,
+      "kantaWeight": 41015,
+      "erpWeight": 41015,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN"
+    },
+    {
+      "date": "21-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 39470,
+      "erpWeight": 39470,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-A & PURLIN-C"
+    },
+    {
+      "date": "22-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 41070,
+      "erpWeight": 41070,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN B"
+    },
+    {
+      "date": "22-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD (RAJ)",
+      "noOfVehicles": 1,
+      "kantaWeight": 41135,
+      "erpWeight": 41135,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN B"
+    },
+    {
+      "date": "22-Jul-24",
+      "to": "DSP INDUSTRIES",
+      "noOfVehicles": 1,
+      "kantaWeight": 40905,
+      "erpWeight": 40905,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN"
+    },
+    {
+      "date": "22-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD (RAJ)",
+      "noOfVehicles": 1,
+      "kantaWeight": 41100,
+      "erpWeight": 41037,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN B"
+    },
+    {
+      "date": "23-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 40060,
+      "erpWeight": 40060,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-A & PURLIN-C"
+    },
+    {
+      "date": "23-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 40290,
+      "erpWeight": 40290,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-A & PURLIN-C"
+    },
+    {
+      "date": "24-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 41265,
+      "erpWeight": 40956,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-B"
+    },
+    {
+      "date": "25-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 40315,
+      "erpWeight": 40315,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN-A/PURLIN-B"
+    },
+    {
+      "date": "26-Jul-24",
+      "to": "M/s Larsen & Toubro Limited",
+      "noOfVehicles": 1,
+      "kantaWeight": 9430,
+      "erpWeight": 9238,
+      "profile": "STRUCTURE",
+      "partName": "PURLIN(1,2,3,4,5,6),BRACIN,RAFTER"
+    },
+    {
+      "date": "26-Jul-24",
+      "to": "DSP INDUSTRIES",
+      "noOfVehicles": 1,
+      "kantaWeight": 36350,
+      "erpWeight": 36350,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN"
+    },
+    {
+      "date": "27-Jul-24",
+      "to": "PURSHOTAM PROFILE PVT LTD",
+      "noOfVehicles": 1,
+      "kantaWeight": 27110,
+      "erpWeight": 27110,
+      "profile": "STRUCTURE",
+      "partName": "RAFTER"
+    },
+    {
+      "date": "27-Jul-24",
+      "to": "DSP INDUSTRIES",
+      "noOfVehicles": 1,
+      "kantaWeight": 30625,
+      "erpWeight": 30625,
+      "profile": "STRUCTURE",
+      "partName": "COLUMN/COLUMN EXT."
+    },
+    {
+      "to": "DSP INDUSTRIES",
+      "noOfVehicles": 1,
+      "profile": "COIL",
+      "partName": "GP_COIL"
+    }
+  ],
+  "production": [
+    {
+      "date": "01-Jul-24",
+      "mill1FgProduction": 15.458,
+      "mill2FgProduction": 18.3375,
+      "scrapGeneration": 0.671,
+      "totalFg": 33.7955
+    },
+    {
+      "date": "02-Jul-24",
+      "mill1FgProduction": 7.36,
+      "mill2FgProduction": 20.016,
+      "scrapGeneration": 0.318,
+      "totalFg": 27.376
+    },
+    {
+      "date": "03-Jul-24",
+      "mill1FgProduction": 12.653,
+      "mill2FgProduction": 6.711,
+      "scrapGeneration": 0.52,
+      "totalFg": 19.364
+    },
+    {
+      "date": "04-Jul-24",
+      "mill1FgProduction": 0,
+      "mill2FgProduction": 14.55765,
+      "scrapGeneration": 0.141,
+      "totalFg": 14.55765
+    },
+    {
+      "date": "05-Jul-24",
+      "mill1FgProduction": 30.119,
+      "mill2FgProduction": 23.0808,
+      "scrapGeneration": 1.009,
+      "totalFg": 53.1998
+    },
+    {
+      "date": "06-Jul-24",
+      "mill1FgProduction": 47.679,
+      "mill2FgProduction": 22.43152,
+      "scrapGeneration": 0.823,
+      "totalFg": 70.11052
+    },
+    {
+      "date": "07-Jul-24",
+      "mill1FgProduction": 30.504,
+      "mill2FgProduction": 6.6815,
+      "scrapGeneration": 0.841,
+      "totalFg": 37.1855
+    },
+    {
+      "date": "08-Jul-24",
+      "mill1FgProduction": 35.145,
+      "mill2FgProduction": 19.413,
+      "scrapGeneration": 0.707,
+      "totalFg": 54.558
+    },
+    {
+      "date": "09-Jul-24",
+      "mill1FgProduction": 51.548,
+      "mill2FgProduction": 13.6242,
+      "scrapGeneration": 0.881,
+      "totalFg": 65.1722
+    },
+    {
+      "date": "10-Jul-24",
+      "mill1FgProduction": 68,
+      "mill2FgProduction": 20.0853,
+      "scrapGeneration": 1.072,
+      "totalFg": 88.0853
+    },
+    {
+      "date": "11-Jul-24",
+      "mill1FgProduction": 65.543,
+      "mill2FgProduction": 14.013,
+      "scrapGeneration": 0.948,
+      "totalFg": 79.556
+    },
+    {
+      "date": "12-Jul-24",
+      "mill1FgProduction": 63.503,
+      "mill2FgProduction": 4.2768,
+      "scrapGeneration": 0.865,
+      "totalFg": 67.7798
+    },
+    {
+      "date": "13-Jul-24",
+      "mill1FgProduction": 74.99,
+      "mill2FgProduction": 16.0083,
+      "scrapGeneration": 1.001,
+      "totalFg": 90.9983
+    },
+    {
+      "date": "14-Jul-24",
+      "mill1FgProduction": 58.366,
+      "mill2FgProduction": 10.04325,
+      "scrapGeneration": 0.76,
+      "totalFg": 68.40925
+    },
+    {
+      "date": "15-Jul-24",
+      "mill1FgProduction": 72.565,
+      "mill2FgProduction": 0,
+      "scrapGeneration": 0.75,
+      "totalFg": 72.565
+    },
+    {
+      "date": "16-Jul-24",
+      "mill1FgProduction": 79.675,
+      "mill2FgProduction": 22.47,
+      "scrapGeneration": 1.29,
+      "totalFg": 102.145
+    },
+    {
+      "date": "17-Jul-24",
+      "mill1FgProduction": 57.895,
+      "mill2FgProduction": 14.676,
+      "scrapGeneration": 0.828,
+      "totalFg": 72.571
+    },
+    {
+      "date": "18-Jul-24",
+      "mill1FgProduction": 71.158,
+      "mill2FgProduction": 30.5244,
+      "scrapGeneration": 1.382,
+      "totalFg": 101.6824
+    },
+    {
+      "date": "19-Jul-24",
+      "mill1FgProduction": 66.797,
+      "mill2FgProduction": 27.1776,
+      "scrapGeneration": 1.319,
+      "totalFg": 93.9746
+    },
+    {
+      "date": "20-Jul-24",
+      "mill1FgProduction": 72.319,
+      "mill2FgProduction": 20.3886,
+      "scrapGeneration": 1.038,
+      "totalFg": 92.7076
+    },
+    {
+      "date": "21-Jul-24",
+      "mill1FgProduction": 58.388,
+      "mill2FgProduction": 12.4776,
+      "scrapGeneration": 0.698,
+      "totalFg": 70.8656
+    },
+    {
+      "date": "22-Jul-24",
+      "mill1FgProduction": 49.899,
+      "mill2FgProduction": 32.838,
+      "scrapGeneration": 2.829,
+      "totalFg": 82.737
+    },
+    {
+      "date": "23-Jul-24",
+      "mill1FgProduction": 0,
+      "mill2FgProduction": 21.42062,
+      "scrapGeneration": 0.212,
+      "totalFg": 21.42062
+    },
+    {
+      "date": "24-Jul-24",
+      "mill1FgProduction": 22.196,
+      "mill2FgProduction": 2.545,
+      "scrapGeneration": 0.943,
+      "totalFg": 24.741
+    },
+    {
+      "date": "25-Jul-24",
+      "mill1FgProduction": 44.616,
+      "mill2FgProduction": 3.555,
+      "scrapGeneration": 0.703,
+      "totalFg": 48.171
+    },
+    {
+      "date": "26-Jul-24",
+      "mill1FgProduction": 59.532,
+      "mill2FgProduction": 1.705,
+      "scrapGeneration": 0.773,
+      "totalFg": 61.237
+    },
+    {
+      "date": "27-Jul-24",
+      "mill1FgProduction": 58.123,
+      "mill2FgProduction": 12.102,
+      "scrapGeneration": 0.84,
+      "totalFg": 70.225
+    },
+    {
+      "date": "28-Jul-24",
+      "mill1FgProduction": 38.113,
+      "mill2FgProduction": 10.686,
+      "scrapGeneration": 0.648,
+      "totalFg": 48.799
+    },
+    {
+      "date": "29-Jul-24",
+      "mill1FgProduction": 38.443,
+      "mill2FgProduction": 19.869,
+      "scrapGeneration": 0.662,
+      "totalFg": 58.312
+    },
+    {
+      "date": "30-Jul-24",
+      "mill1FgProduction": 16.448,
+      "mill2FgProduction": 18.504,
+      "scrapGeneration": 0.559,
+      "totalFg": 34.952
+    }
+  ],
+  "MISInventory": [
+    {
+      "Date": "01-Jul-24",
+      "TotalKantaWeight": 0,
+      "rawMaterial": 0,
+      "FG": 33.7955,
+      "scrap": 0.671,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "02-Jul-24",
+      "TotalKantaWeight": 72150,
+      "rawMaterial": 72045,
+      "FG": 27.376,
+      "scrap": 0.318,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "03-Jul-24",
+      "TotalKantaWeight": 0,
+      "rawMaterial": 0,
+      "FG": 19.364,
+      "scrap": 0.052,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "04-Jul-24",
+      "TotalKantaWeight": 79550,
+      "rawMaterial": 79370,
+      "FG": 14.55765,
+      "scrap": 0.141,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "05-Jul-24",
+      "TotalKantaWeight": 207595,
+      "rawMaterial": 207155,
+      "FG": 53.1998,
+      "scrap": 1.009,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "06-Jul-24",
+      "TotalKantaWeight": 0,
+      "rawMaterial": 0,
+      "FG": 70.11052,
+      "scrap": 0.823,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "07-Jul-24",
+      "TotalKantaWeight": 155120,
+      "rawMaterial": 154780,
+      "FG": 37.1855,
+      "scrap": 0.841,
+      "PackingMaterial": 785
+    },
+    {
+      "Date": "08-Jul-24",
+      "TotalKantaWeight": 0,
+      "rawMaterial": 0,
+      "FG": 54.558,
+      "scrap": 0.707,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "09-Jul-24",
+      "TotalKantaWeight": 27275,
+      "rawMaterial": 27290,
+      "FG": 65.1722,
+      "scrap": 0.881,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "10-Jul-24",
+      "TotalKantaWeight": 86310,
+      "rawMaterial": 86230,
+      "FG": 88.0853,
+      "scrap": 1.072,
+      "PackingMaterial": 1615
+    },
+    {
+      "Date": "11-Jul-24",
+      "TotalKantaWeight": 91460,
+      "rawMaterial": 91310,
+      "FG": 79.556,
+      "scrap": 0.948,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "12-Jul-24",
+      "TotalKantaWeight": 132330,
+      "rawMaterial": 132090,
+      "FG": 67.7798,
+      "scrap": 0.865,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "13-Jul-24",
+      "TotalKantaWeight": 70195,
+      "rawMaterial": 70150,
+      "FG": 90.9983,
+      "scrap": 1.001,
+      "PackingMaterial": 1160
+    },
+    {
+      "Date": "14-Jul-24",
+      "TotalKantaWeight": 24030,
+      "rawMaterial": 23990,
+      "FG": 68.40925,
+      "scrap": 0.76,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "15-Jul-24",
+      "TotalKantaWeight": 23995,
+      "rawMaterial": 23980,
+      "FG": 72.565,
+      "scrap": 0.757,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "16-Jul-24",
+      "TotalKantaWeight": 106805,
+      "rawMaterial": 106695,
+      "FG": 102.145,
+      "scrap": 1.29,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "17-Jul-24",
+      "TotalKantaWeight": 81945,
+      "rawMaterial": 27360,
+      "FG": 72.571,
+      "scrap": 0.828,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "18-Jul-24",
+      "TotalKantaWeight": 148110,
+      "rawMaterial": 24410,
+      "FG": 101.6824,
+      "scrap": 1.382,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "19-Jul-24",
+      "TotalKantaWeight": 100790,
+      "rawMaterial": 17385,
+      "FG": 93.9746,
+      "scrap": 1.319,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "20-Jul-24",
+      "TotalKantaWeight": 73325,
+      "rawMaterial": 24630,
+      "FG": 92.7076,
+      "scrap": 1.038,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "21-Jul-24",
+      "TotalKantaWeight": 71105,
+      "rawMaterial": 24460,
+      "FG": 70.8656,
+      "scrap": 0.698,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "22-Jul-24",
+      "TotalKantaWeight": 0,
+      "rawMaterial": 0,
+      "FG": 82.737,
+      "scrap": 2.829,
+      "PackingMaterial": 890
+    },
+    {
+      "Date": "23-Jul-24",
+      "TotalKantaWeight": 32215,
+      "rawMaterial": 32140,
+      "FG": 21.42062,
+      "scrap": 0.212,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "24-Jul-24",
+      "TotalKantaWeight": 102505,
+      "rawMaterial": 18620,
+      "FG": 24.741,
+      "scrap": 0.943,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "25-Jul-24",
+      "TotalKantaWeight": 214895,
+      "rawMaterial": 20300,
+      "FG": 48.171,
+      "scrap": 0.703,
+      "PackingMaterial": 1875
+    },
+    {
+      "Date": "26-Jul-24",
+      "TotalKantaWeight": 164635,
+      "rawMaterial": 21060,
+      "FG": 61.237,
+      "scrap": 0.773,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "27-Jul-24",
+      "TotalKantaWeight": 131615,
+      "rawMaterial": 32740,
+      "FG": 70.225,
+      "scrap": 0.84,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "28-Jul-24",
+      "TotalKantaWeight": 0,
+      "rawMaterial": 0,
+      "FG": 48.799,
+      "scrap": 0.648,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "29-Jul-24",
+      "TotalKantaWeight": 0,
+      "rawMaterial": 0,
+      "FG": 58.312,
+      "scrap": 0.662,
+      "PackingMaterial": 0
+    },
+    {
+      "Date": "30-Jul-24",
+      "TotalKantaWeight": 0,
+      "rawMaterial": 0,
+      "FG": 34.952,
+      "scrap": 0.559,
+      "PackingMaterial": 0
+    }
+  ]
+}

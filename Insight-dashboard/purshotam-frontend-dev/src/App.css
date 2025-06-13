@@ -1,0 +1,20 @@
+.table-thead-th {
+    padding: 20px 30px;
+    background-color: #edf2ff;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: inherit;
+}
+
+.table-tbody-td {
+    padding: 16px 30px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: inherit;
+
+}
+
+
+.grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}

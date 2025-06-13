@@ -1,0 +1,117 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "extends": [
+    "airbnb",
+    "airbnb/hooks",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:react/recommended",
+    "plugin:react-hooks/recommended",
+    "plugin:jsx-a11y/recommended",
+    "plugin:import/typescript"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "plugins": [
+    "react",
+    "@typescript-eslint"
+  ],
+  "rules": {
+    // React and JSX rules
+    "react/react-in-jsx-scope": "off", // React 17+ doesn't require React to be in scope
+    "react/jsx-filename-extension": [
+      "warn",
+      {
+        "extensions": [
+          ".jsx",
+          ".tsx"
+        ]
+      }
+    ],
+    // TypeScript rules
+    "@typescript-eslint/no-use-before-define": [
+      "error"
+    ],
+    // Import rules
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "ts": "never",
+        "tsx": "never"
+      }
+    ],
+    "import/no-extraneous-dependencies": [
+      "error",
+      {
+        "devDependencies": [
+          "**/*.test.tsx",
+          "**/*.test.ts"
+        ]
+      }
+    ],
+    "no-console": "warn", // Warn on console statements
+    "eqeqeq": [
+      "error",
+      "always"
+    ], // Enforce strict equality (===)
+    "curly": [
+      "error",
+      "all"
+    ], // Enforce curly braces for all control statements
+    "no-unused-vars": [
+      "warn",
+      {
+        "argsIgnorePattern": "^_"
+      }
+    ], // Warn on unused variables, ignore variables starting with "_"
+    "no-multiple-empty-lines": [
+      "error",
+      {
+        "max": 1
+      }
+    ], // Limit multiple empty lines
+    "eol-last": [
+      "error",
+      "always"
+    ], // Enforce newline at the end of files
+    "no-trailing-spaces": "error", // Disallow trailing whitespace
+    "react/function-component-definition": "off",
+    "jsx-a11y/click-events-have-key-events": "off",
+    "react/no-array-index-key": "off",
+    "arrow-body-style": "off",
+    "react/jsx-indent": "off",
+    "indent": "off",
+    "react/jsx-curly-brace-presence": "off",
+    "comma-dangle": "off",
+    "jsx-quotes": "off",
+    "react/jsx-indent-props": "off",
+    "quotes": "off",
+    "semi": "Off",
+    "import/prefer-default-export": "off",
+    "react/prop-types": "off"
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    },
+    "import/resolver": {
+      "node": {
+        "extensions": [
+          ".js",
+          ".jsx",
+          ".ts",
+          ".tsx"
+        ]
+      }
+    }
+  }
+}
